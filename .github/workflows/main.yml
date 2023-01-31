@@ -1,4 +1,4 @@
-name: CI
+r-darwish: CI
 
 on:
   pull_request:
